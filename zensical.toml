@@ -1,6 +1,6 @@
 [project]
 site_name = "Eukaryote"
-site_url = "https://richelbilderbeek.github.io/Eukaryote/"
+site_url = "https://richelbilderbeek.github.io/eukaryote/"
 repo_url = "https://github.com/richelbilderbeek/Eukaryote"
 edit_uri = "blob/master/docs/"
 
